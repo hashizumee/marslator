@@ -3,11 +3,16 @@ Marslator adalah aplikasi penerjemah modern berbasis Android yang mendukung hing
 Dirancang dengan antarmuka yang intuitif dan fitur-fitur canggih, Marslator membantu Anda menerjemahkan teks secara cepat, akurat, dan menyenangkan.
 
 ## ✨ Fitur Unggulan
-## 🔄 Auto-Translate: Hasil terjemahan muncul otomatis saat mengetik.
-## 🌐 58 Bahasa Dunia: Dukungan bahasa populer dan regional.
-## 🔁 Swap Bahasa: Tukar bahasa sumber dan target dengan sekali klik.
-## 📋 Copy & Clear: Salin hasil terjemahan atau reset input dengan cepat.
-## 🖼️ Profil User: Login dengan Google dan tampilkan nama, email, serta foto.
+## 🔄 Auto-Translate: 
+Hasil terjemahan muncul otomatis saat mengetik.
+## 🌐 58 Bahasa Dunia:
+Dukungan bahasa populer dan regional.
+## 🔁 Swap Bahasa:
+Tukar bahasa sumber dan target dengan sekali klik.
+## 📋 Copy & Clear:
+Salin hasil terjemahan atau reset input dengan cepat.
+## 🖼️ Profil User:
+Login dengan Google dan tampilkan nama, email, serta foto.
 
 ## 🎨 Modern UI: Berbasis Material Design Components.
 
