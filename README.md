@@ -1,4 +1,4 @@
-🌌 Marslator
+## 🌌 Marslator
 Marslator adalah aplikasi penerjemah modern berbasis Android yang mendukung hingga 58 bahasa dunia!
 Dirancang dengan antarmuka yang intuitif dan fitur-fitur canggih, Marslator membantu Anda menerjemahkan teks secara cepat, akurat, dan menyenangkan.
 
