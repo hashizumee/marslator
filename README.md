@@ -4,7 +4,7 @@
 Dirancang untuk siapa saja yang membutuhkan penerjemahan cepat, akurat, dan praktis, dengan antarmuka yang bersih dan modern.  
 Dengan Marslator, Anda dapat menerjemahkan teks antar bahasa hanya dalam hitungan detik!
 
-![Marslator Banner](https://via.placeholder.com/1000x300.png?text=Marslator+Translator+App)
+![marslator 2](https://github.com/user-attachments/assets/5a5f6ce4-4cd0-41ca-967e-597a0984b039)
 
 ---
 
@@ -47,4 +47,9 @@ Marslator dibangun dengan tujuan untuk:
 - **MVVM Architecture** (optional upgrade)
 
 ---
+## 🔧 Cara Install dan Menjalankan
 
+1. **Clone Repository**  
+   ```bash
+   git clone https://github.com/username/marslator.git
+   cd marslator
