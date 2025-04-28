@@ -14,7 +14,7 @@ Dirancang dengan antarmuka yang intuitif dan fitur-fitur canggih, Marslator memb
 📸 Tampilan Aplikasi
 
 ## 🚀 Teknologi yang Digunakan
-`Android Studio (Java + XML)
+--Android Studio (Java + XML)
 ConstraintLayout
 Material Design Components
 Google ML Kit Translation API
@@ -37,7 +37,7 @@ Lisensi: MIT License
 Ingin membantu mengembangkan Marslator?
 Silakan fork project ini dan buat pull request! Semua kontribusi sangat dihargai. ❤️
 
-📫 Kontak
+## 📫 Kontak
 📧 Email: developer@example.com
 🌐 Website: marslator.netflify.app
 📷 Instagram: @marslator_official
