@@ -60,4 +60,6 @@ Marslator dibangun dengan tujuan untuk:
    git clone https://github.com/username/marslator.git
    cd marslator
 
-
+## LINK TRELLO
+```
+https://trello.com/invite/b/68065e50af0e8348b1bb283e/ATTI417ea1409b2c89f0e4ced0493b4af0abC9C8590E/marslator
