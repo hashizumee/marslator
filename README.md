@@ -7,7 +7,7 @@ Dengan Marslator, Anda dapat menerjemahkan teks antar bahasa hanya dalam hitunga
 ![marslator 2](https://github.com/user-attachments/assets/5a5f6ce4-4cd0-41ca-967e-597a0984b039)
 
 # STORYBOARD & MOCKUP
-![storyboard](https://github.com/user-attachments/assets/a67e90cf-870c-41bf-8d46-01
+![storyboard](https://github.com/user-attachments/assets/64466b0e-1b63-40cb-9505-7e165bcaeb6d)
 ![mockup](https://github.com/user-attachments/assets/fd655d01-a074-45a6-b0e5-d8d8e97d033e)
 d05bf0ccbd)
 
